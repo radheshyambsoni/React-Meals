@@ -1,5 +1,11 @@
+import Header from "./components/Layout/Header";
+
 const App = () => {
-	return <div>Food Order App</div>;
+	return (
+		<div>
+			<Header />
+		</div>
+	);
 };
 
 export default App;
