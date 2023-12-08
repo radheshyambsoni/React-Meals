@@ -1,8 +1,27 @@
-# React + Vite
+# React Meals 🍔
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intuitive food ordering platform showcasing seamless user interactions and dynamic cart management built with React. Add meals effortlessly! 🚀
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Frontend: HTML, CSS, JavaScript, ReactJS, Vite-React
+
+## Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/React-Meals.git
+   ```
+2. Navigate to the project directory and open in terminal (or in your favourite IDEs' integrated terminal)
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+
+   ```
+
+4. Start dev server:
+   ```bash
+   npm run dev
+   ```
