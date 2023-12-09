@@ -10,7 +10,7 @@ An intuitive food ordering platform showcasing seamless user interactions and dy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/React-Meals.git
+   git clone https://github.com/radheshyambsoni/React-Meals.git
    ```
 2. Navigate to the project directory and open in terminal (or in your favourite IDEs' integrated terminal)
 
